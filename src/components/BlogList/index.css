@@ -1,0 +1,8 @@
+.blogs-list-container {
+  width: 80%;
+  padding: 0px;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+}
